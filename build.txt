@@ -1,2 +1,4 @@
 author = Dark-Assassin
 displayName = Variable Potion Sickness
+version 1.0.1
+modReferences = DALib@1.4
